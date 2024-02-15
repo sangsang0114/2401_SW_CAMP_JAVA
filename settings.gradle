@@ -1,3 +1,4 @@
 rootProject.name = 'JavaPractice'
 include 'day01Quiz'
+include 'day02Quiz'
 
